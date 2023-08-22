@@ -1,2 +1,5 @@
-# PortfolioGRID
-Portfólio para apresentação e divulgação de serviços e trabalho. Todo o site foi criado utilizando HTML &amp; CSS
+# PortfólioGRID
+<h2>Criação de um Portfólio com HTML e CSS Puro<h2>
+  <hr>
+<p align="center"><img width="auto" src="img/apresentacao.gif"></p>
+<hr>
